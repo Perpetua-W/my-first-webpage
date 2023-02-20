@@ -7,7 +7,7 @@ By **Perpetua Wanjiku**
 The purpose of this web application is to highlight the learning areas that one can train on in order to become a great web developer.
 ## Setup/Installation Requirements
 
-To access the application you need to have a browser installed on your machine and access it through URL: https://my-first-webpage.com
+To access the application you need to have a browser installed on your machine and access it through URL: https://perpetua-w.github.io/my-favourite-things/
 
 ## Known Bugs
 No known bags
